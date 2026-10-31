@@ -1,4 +1,6 @@
-* text=auto
-*.sh text eol=lf
-*.rs text eol=lf
-*.toml text eol=lf
+# Mirror binary assets without line-ending conversions
+*.woff2 binary
+*.ttf binary
+*.wasm binary
+*.zip binary
+*.tar.gz binary
