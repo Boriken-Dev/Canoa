@@ -1,2 +1,3 @@
 # pack-refs with: peeled fully-peeled sorted 
-60faa0c8a50d0cd8b5ee49f16289bbce6a461a2b refs/heads/main
+f118371e2b5764ca5fd2172e729ffdadf6b7549a refs/heads/main
+f118371e2b5764ca5fd2172e729ffdadf6b7549a refs/tags/ci-datagrams
